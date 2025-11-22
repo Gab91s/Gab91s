@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 <br>
 <p align='center'>
 🪼⋆｡°  𓆝 𓆟 𓆞 𓆝 𓆟 🫧ೃ࿔*:･
+</p>
 <br>
-
+<p align='center'>
   <img alt="No EDU" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=NO&secondaryLabel=EDU&primaryBGColor=%23000000&secondaryBGColor=%23000000&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryTextShadowOffsetX=-1&primaryTextShadowOffsetY=-1&primaryTextShadowBlur=10&primaryTextShadowColor=%23ffffff&secondaryTextShadowOffsetX=0.5&secondaryTextShadowOffsetY=1.5&secondaryTextShadowBlur=4&secondaryTextShadowColor=%23ffffff&borderRadius=10&scale=1.10" />
 <br>
 <a href="">
