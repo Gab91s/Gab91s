@@ -19,24 +19,28 @@ Here are some ideas to get you started:
 
 <p align='center'>
   <a target="_blank" href="https://www.linkedin.com/in/gabrielle-saab/" title="[in]">
-    <img alt="LinkedIn - Gabrielle Saab" src="https://img.shields.io/badge/LinkedIn-WORK_STUFF-0077B5?&style=plastic" />
+    <img alt="LinkedIn - Gabrielle Saab" src="https://img.shields.io/badge/LinkedIn-Employment History | Connect w/ Me-0077B5?&style=plastic" />
   </a>
  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/intent/follow?screen_name=saab2010" title="the website formerly known as Twitter">
     <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Twitter-Follow_@saab2010-6082B6?style=plastic&logo=x&logoColor=white&labelColor=1d3557" />
   </a>
  &nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/users/880937194867548190">
-    <img alt="Add me on Discord" src="https://img.shields.io/badge/Discord-🎮_🎧_👾_모_🕹️_⌨️-555555?style=flat&logo=discord&logoColor=white&labelColor=5865F2" />
+  <a href="https://discord.com/users/880937194867548190" title="">
+    <img alt="Add me on Discord" src="https://img.shields.io/badge/Discord-_🕹️_-555555?style=flat&logo=discord&logoColor=white&labelColor=5865F2" />
   </a>
  &nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/gabby.s.pix/" title="did it for the 'gram">
-    <img alt="See me on Instagram" src="https://img.shields.io/badge/Instagram-🎞_📷_🅾_[◉°]_🎞️-E4405F?style=plastic&logo=instagram&logoColor=white&labelColor=833ab4" />
+    <img alt="See me on Instagram" src="https://img.shields.io/badge/Instagram-_[◉°]_-E4405F?style=plastic&logo=instagram&logoColor=white&labelColor=833ab4" />
   </a>
  &nbsp;&nbsp;&nbsp;
-  <a href="">
+  <a href="https://www.pinterest.com/gabs91/" title="">
     <img alt="Pin me on Pinterest" src="https://img.shields.io/badge/Pinterest-BD081C?&plastic&logo=Pinterest&logoColor=white" />
   </a>
+ &nbsp;&nbsp;&nbsp;
+<!--  <a href="" title="">
+    <img alt="Ravelry TODO** " src="" />
+  </a> -->
 </p>
 <br>
 <h2 align='center'><bold> ࣪ ﹏𓊝﹏𓂁﹏⊹ ࣪ ˖</bold></h2>
@@ -46,29 +50,29 @@ Here are some ideas to get you started:
 </p>
 <br>
 <p align='center'>
-  <img alt="No EDU" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=NO&secondaryLabel=EDU&primaryBGColor=%23000000&secondaryBGColor=%23000000&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryTextShadowOffsetX=-1&primaryTextShadowOffsetY=-1&primaryTextShadowBlur=10&primaryTextShadowColor=%23ffffff&secondaryTextShadowOffsetX=0.5&secondaryTextShadowOffsetY=1.5&secondaryTextShadowBlur=4&secondaryTextShadowColor=%23ffffff&borderRadius=10&scale=1.10" />
+  <!-- <img alt="No EDU" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=NO&secondaryLabel=EDU&primaryBGColor=%23000000&secondaryBGColor=%23000000&primaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryTextColor=%23FFFFFF&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&primaryTextShadowOffsetX=-1&primaryTextShadowOffsetY=-1&primaryTextShadowBlur=10&primaryTextShadowColor=%23ffffff&secondaryTextShadowOffsetX=0.5&secondaryTextShadowOffsetY=1.5&secondaryTextShadowBlur=4&secondaryTextShadowColor=%23ffffff&borderRadius=10&scale=1.10" /> -->
 <br>
-<a href="">
+<a href="https://forthebadge.com/">
   <img alt="Built with Love <3" src="https://forthebadge.com/badges/built-with-love.svg" />
 </a>
 <br>
-<a href="">
+<a href="https://forthebadge.com/">
   <img alt="contains cat gifs" src="https://forthebadge.com/badges/contains-cat-gifs.svg" />
 </a>
-<a href="">
+<a href="https://forthebadge.com/">
   <img alt="Powered by Coffee" src="https://forthebadge.com/badges/powered-by-coffee.svg" />
 </a>
-<a href="">
+<a href="https://forthebadge.com/">
   <img alt="Fo Sho" src="https://forthebadge.com/badges/fo-sho.svg" />
 </a>
-<a href="">
+<a href="https://forthebadge.com/">
   <img alt="Rick Rolls" src="https://forthebadge.com/api/badges/generate?panels=2&primaryLabel=HIDDEN+RICKROLLS&secondaryLabel=1&primaryBGColor=%23555555&primaryTextColor=%23FFFFFF&secondaryBGColor=%230088c0&secondaryTextColor=%23FFFFFF&primaryFontSize=12&primaryFontWeight=600&primaryLetterSpacing=2&primaryFontFamily=Roboto&primaryTextTransform=uppercase&secondaryFontSize=12&secondaryFontWeight=900&secondaryLetterSpacing=2&secondaryFontFamily=Montserrat&secondaryTextTransform=uppercase&secondaryTextShadowOffsetX=0.5&secondaryTextShadowOffsetY=1.5&secondaryTextShadowBlur=4&secondaryTextShadowColor=%23ffffff" />
 </a>
-<a href="">
+<a href="https://forthebadge.com">
   <img alt="ctrl-c ctrl-v" src="https://forthebadge.com/badges/ctrl-c-ctrl-v.svg" />
 </a>
 <br>
-<a href="">
+<a href="https://forthebadge.com">
   <img alt="not an issue" src="https://forthebadge.com/badges/not-an-issue.svg" />
 </a>
 </p>
@@ -85,11 +89,15 @@ Here are some ideas to get you started:
 
 <br><br>
 
-<a href="https://git.io/streak-stats" title="FIXME-CHANGEME"><img src="https://streak-stats.demolab.com?user=gab91s&theme=synthwave" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-puce-eta.vercel.app?user=gab91s&theme=synthwave" alt="GitHub Streak" /></a>
 
+
+<!-- 
+TODO** self host on vercel toplang stats
 <a href="https://github.com/anuraghazra/convoychat" title="FIXME-CHANGEME">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gab91s&layout=compact&langs_count=8&card_width=320" />
 </a>
+-->
 
 <!-- source of custom badges: https://github.com/DenverCoder1/custom-icon-badges/blob/main/README.md -->
 
@@ -177,8 +185,8 @@ https://img.shields.io/twitter/follow/saab2010?&style=social&logo=X
 <!-- [![Buy me a coffee](https://custom-icon-badges.demolab.com/badge/-Buy_me_a_coffee-FF5E5B?style=plastic&logo=kofi&logoColor=white)](https://ko-fi.com/gabbysaab "Buy me a coffee") -->
 <br><br>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" title="Trophies Widget that displays some GitHub Stats">
-<img alt="GitHub Stats as Trophies" src="https://github-profile-trophy.vercel.app/?username=gab91s&theme=dark_dimmed" />
+<!-- <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" title="Trophies Widget that displays some GitHub Stats">
+<img alt="GitHub Stats as Trophies" src="https://github-profile-trophy.vercel.app/?username=gab91s&theme=dark_dimmed" /> -->
 
 [![Profile Page Views][8]][9]
 
